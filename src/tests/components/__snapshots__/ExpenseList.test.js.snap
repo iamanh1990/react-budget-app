@@ -8,6 +8,7 @@ exports[`should render Expense List correctly 1`] = `
     description="rent bill"
     id="1"
     key="1"
+    note=""
   />
   <ExpenseListItem
     amount={500}
@@ -15,6 +16,7 @@ exports[`should render Expense List correctly 1`] = `
     description="water bill"
     id="2"
     key="2"
+    note=""
   />
   <ExpenseListItem
     amount={30}
@@ -22,6 +24,7 @@ exports[`should render Expense List correctly 1`] = `
     description="cleaning bill"
     id="3"
     key="3"
+    note=""
   />
 </div>
 `;
